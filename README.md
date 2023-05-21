@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Sanket Nannaware</h1>
 <h3 align="center">A passionate Android developer </h3>
-<img algin="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanket6652&label=Profile%20views&color=0e75b6&style=flat" alt="sanket6652" /> </p>
 
