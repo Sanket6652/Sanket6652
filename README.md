@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cross Platform Development**
 
-- 💬 Ask me about **Koltin, Java, C++,Python**
+- 💬 Ask me about **Koltin,flutter,Java,C++,Python**
 
 - 📫 How to reach me **sanketnannaware96@gmail.com**
 
